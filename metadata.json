@@ -1,0 +1,7 @@
+{
+  "name": "DROWSINESS DETECTION",
+  "description": "Advanced real-time driver drowsiness detection system featuring neural monitoring, fatigue analysis, and holographic HUD interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
